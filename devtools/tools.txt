@@ -1,0 +1,12 @@
+sudo apt update
+
+sudo apt install -y \
+    build-essential \
+    gcc \
+    binutils \
+    nasm \
+    grub-pc-bin \
+    grub-common \
+    xorriso \
+    qemu-system-x86 \
+    make
