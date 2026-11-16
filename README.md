@@ -28,7 +28,7 @@ Rather than building upon an existing operating system kernel, AditiOS aims to e
 
 The initiative serves as a platform for research, experimentation, learning, and long-term systems engineering.
 
-> **AditiOS is not intended to be another Linux distribution.**
+> **AditiOS**
 >
 > It is an effort to understand, design, and build an operating system starting from its foundational components.
 
