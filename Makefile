@@ -19,7 +19,7 @@ LDFLAGS = -m elf_i386 \
           -nostdlib
 
 KERNEL = kernel.elf
-ISO = os.iso
+ISO = AditiOS.iso
 
 SOURCES = kernel/kernel.c \
           kernel/memory/heap.c
